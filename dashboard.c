@@ -1,8 +1,8 @@
-/*
+ /*
 ===============================================================================
  Name        : dashboard.c
- Author      : 
- Version     : 
+ Author      : Eric Tu & Terence Cho
+ Version     : 0.1v
  Copyright   : Copyright (C)
  Description : main definition
 ===============================================================================
@@ -20,3 +20,28 @@
 #include "pitches.h"
 #include "bms_defs.h"
 #include "can_id.h"
+
+void setup() {
+    configure_CAN();
+    SpiStart();
+}
+
+void loop() {
+
+}
+
+static inline void SpiStart() {
+
+}
+
+static inline void SpiEnd() {
+
+}
+
+void ToSpi() {
+
+}
+
+void FromSpi() {
+
+}
