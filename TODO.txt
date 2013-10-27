@@ -1,0 +1,69 @@
+/***
+ * ISR for reading Tritium speed readings off CAN
+ */
+void processCan(CanMessage &msg) {
+
+boolean isCruisePressed(void) {
+
+void resetBlinkingLightsTimer() {
+
+char isBlinkingLightsOn() {
+
+/***
+ * Increments or decrements the speed of the cruise control based on the three
+ * way momentary switch position.  Each drive cycle will increase or decrease
+ * speed by a set.
+ */
+float adjustCruiseControl(float speed) {
+
+/***
+ * Change light and horn state based on switches.
+ */
+// TODO: Hazard latching
+void updateAuxiliaryStates() {
+
+/***
+ * Turns blinkers and horn on and off based on the current state.
+ */
+void auxiliaryControl() {
+
+/***
+ * Blinks the BRAIN debug LED to indicate any status errors.
+ * If okay, do not blink
+ * If general error, blink at 5Hz
+ * If CAN error, blink at 15Hz
+ */
+void blinkStatusLED() {
+
+/***
+ * Sends a drive command packet to the Tritium motor controller.  Velocity is
+ * in meters per second, and current is a float between 0.0 and 1.0.
+ */
+void sendDriveCommand(const float motor_velocity, const float motor_current) {
+
+/***
+ * Sends a reset packet to the Tritium.  This is called whenever there is an
+ * overcurrent error.
+ */
+void resetTritium() {
+
+/***
+ * Updates whether or not the car is in cruise control.
+ */
+boolean getCruiseState(const states_enum old_state, const float brake) {
+
+/***
+ * Updates the current state of the car (Forward, Reverse, Neutral) based on
+ * switches.
+ */
+states_enum getDrivingState(const states_enum old_state, const float brake) {
+
+void createDriveCommands(const states_enum state, const float accel,
+
+float getPedal(const byte port, const int lower, const int upper) {
+
+/***
+ * Calls a single routine of the driver routine loop.  This function reads
+ * pedal inputs, adjusts for thresholds, and send CAN data to the Tritium.
+ */
+states_enum driverControl() {
