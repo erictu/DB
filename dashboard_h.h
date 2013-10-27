@@ -1,6 +1,6 @@
  /*
 ===============================================================================
- Name        : dashboard.c
+ Name        : dashboard_h.h
  Author      : Eric Tu & Terence Cho
  Version     : 0.1v
  Copyright   : Copyright (C)
@@ -21,11 +21,3 @@
 #include "bms_defs.h"
 #include "can_id.h"
 
-void setup() {
-    configure_CAN();
-    SpiStart();
-}
-
-void loop() {
-
-}
