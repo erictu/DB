@@ -1,29 +1,33 @@
 input/output pins of the main chip
 
-UART TX ACCELERATOR
-UART RX ACCELERATOR
-HCTS_RRTS
+UART TX ACCELERATOR (output) (not needed)
+UART RX ACCELERATOR (input)
+HCTS_RRTS (modem card?)
 HRTS_RCTS
 
 
 
-I/O
+I/O 
+Most from steering wheel
 1. LeftTurnLED
 2. RightTurnLED
-3. GP101.8
-4. UARt Display
-5. UART TX STEERING WHEEL
-6. UART RX STEERING WHEEL
-7. ReverseControl
+3. GP101.8 (general purpose I/O)
+4. UARt Display (output) (display short messages on the display)
+5. UART TX STEERING WHEEL (output) (not needed?)
+6. UART RX STEERING WHEEL (input)
+
+Motor
+7. ReverseControl 
 8. ForwardControl
-9. RegenControl
-10. HazardCondtrol
+9. RegenControl (regenerative braking)
+
+10. HazardCondtrol (hazard lights) (LEDs)
 11. 
-12. CruiseLED
+12. CruiseLED (on the display)
 13. SpareI/O
 
 
-
+No need to worry about these
 SCK
 MOSI
 MISO
@@ -34,10 +38,10 @@ CAN_TXD
 
 
 
-ACT_LED
-ERR_LED
-STE_LED
-DBG_LED
+ACT_LED (unknown)
+ERR_LED (error)
+STE_LED (unknown)
+DBG_LED (degbugging)
 
 Analog-Digital Converter
 0. AIN0
