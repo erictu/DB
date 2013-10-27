@@ -1,0 +1,50 @@
+input/output pins of the main chip
+
+UART TX ACCELERATOR
+UART RX ACCELERATOR
+HCTS_RRTS
+HRTS_RCTS
+
+
+
+I/O
+1. LeftTurnLED
+2. RightTurnLED
+3. GP101.8
+4. UARt Display
+5. UART TX STEERING WHEEL
+6. UART RX STEERING WHEEL
+7. ReverseControl
+8. ForwardControl
+9. RegenControl
+10. HazardCondtrol
+11. 
+12. CruiseLED
+13. SpareI/O
+
+
+
+SCK
+MOSI
+MISO
+SDA
+SCL
+CAN_RXD
+CAN_TXD
+
+
+
+ACT_LED
+ERR_LED
+STE_LED
+DBG_LED
+
+Analog-Digital Converter
+0. AIN0
+1. AIN1
+2. AIN2
+3. AIN3
+4. SpareAnalog1
+5. SPARE STEERING WHEEL
+6. SPARE ACCELERATOR
+7.
