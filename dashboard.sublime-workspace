@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bl",
+				"border-left-style"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"data_size",
+				"data_size_Y"
+			],
+			[
+				"data",
+				"data_size_X"
+			],
+			[
+				"data_",
+				"data_size_X"
+			],
+			[
+				"added_vect",
+				"added_vector3"
+			],
+			[
+				"add",
+				"added_vector2"
+			],
+			[
+				"added",
+				"added_vector1"
+			],
+			[
+				"vector",
+				"vector_offset"
+			],
+			[
+				"row_",
+				"row_offset"
+			],
+			[
+				"kernel",
+				"kernel_vector"
+			],
+			[
+				"LEGN",
+				"LENGTH_WORD"
+			],
+			[
+				"LEN",
+				"LENGTH_BYTE"
+			],
+			[
+				"LENGTH",
+				"LENGTH_HALF_WORD"
+			],
+			[
+				"L",
+				"LENGTH_BYTE"
+			],
+			[
+				"SIZE",
+				"SIZE_WORD"
+			],
+			[
+				"in",
+				"instruction"
+			],
+			[
+				"rt",
+				"rt"
+			],
+			[
+				"it",
+				"itype"
+			],
+			[
+				"pr",
+				"processor"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"tare",
+				"targetIndices"
+			],
+			[
+				"Text",
+				"Text"
+			],
+			[
+				"targetWord",
+				"targetWordIndices"
+			],
+			[
+				"target",
+				"targetIndices"
+			],
+			[
+				"doc",
+				"docContents"
+			],
+			[
+				"print",
+				"print_error"
+			],
+			[
+				"si",
+				"size-1"
+			],
+			[
+				"size",
+				"size-n"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dashboard_h_old.h",
+			"settings":
+			{
+				"buffer_size": 14868,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/hw5.txt",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/dashboard_old.h",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/dashboardP.c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/old_dashboard.c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/pin_def_old.c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/dashboard.c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/pin_def.c",
+		"/C/Users/Eric/Downloads/part1 (6).c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/controllerPins.txt",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/TODO.txt",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/dashboard.h",
+		"/C/Users/Eric/Downloads/part1 (5).c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/DashBoard/template.c",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/index.html",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/indexIdClass.html",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/css/style.css",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/floats.html",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/css/stylefloat.css",
+		"/C/Users/Eric/Downloads/part1 (4).c",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/css/style1.css",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/firstAssign.html",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/projects/proj2/sgemm-small.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp12050/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp03499/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab7/sum.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp51071/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab6/matrixMultiply.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp43888/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab6/transpose.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/projects/proj2/sgemm-openmp.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp23406/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp45218/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp43290/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/projects/proj2/sgemm-naive.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp45393/home/cc/cs61c/fa13/class/cs61c-xn/proj3/naive.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp13586/home/cc/cs61c/fa13/class/cs61c-xn/lab08/sum.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/1022lec.txtx",
+		"/C/Users/Eric/AppData/Local/Temp/scp44466/home/cc/cs61c/fa13/class/cs61c-xn/proj3/part1.c",
+		"/C/Users/Eric/Dropbox/Projects/CalSol/dashboard.h",
+		"/C/Users/Eric/Desktop/template.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp12895/home/cc/cs61c/fa13/class/cs61c-xn/proj2/types.h",
+		"/C/Users/Eric/AppData/Local/Temp/scp41989/home/cc/cs61c/fa13/class/cs61c-xn/work/hw/hw05/rotate_vectorized.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab7/sseTest.s",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab7/sseTest.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp13000/home/cc/cs61c/fa13/class/cs61c-xn/lab08/sseTest.c",
+		"/C/Users/Eric/Dropbox/Fall 2013/CS 61C/cs61c-t/lab/lab7/sseTest",
+		"/C/Users/Eric/AppData/Local/Temp/scp45041/home/cc/cs61c/fa13/class/cs61c-xn/proj3/ref.c",
+		"/C/Program Files (x86)/Git/bin/printf",
+		"/C/Program Files (x86)/Git/bin/pwd",
+		"/C/Program Files (x86)/Git/bin/astextplain",
+		"/C/Users/Eric/Downloads/testfull (1).s",
+		"/C/Users/Eric/Downloads/testfull.s",
+		"/C/Users/Eric/AppData/Local/Temp/scp11197/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp31125/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/E/part2xd.c",
+		"/C/Users/Eric/Desktop/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp10897/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp20928/home/cc/cs61c/fa13/class/cs61c-xn/proj2/rt3f.trace",
+		"/C/Users/Eric/AppData/Local/Temp/scp27314/home/cc/cs61c/fa13/class/cs61c-xn/proj2/insts3.trace",
+		"/C/Users/Eric/Desktop/part2jtc.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp26438/home/cc/cs61c/fa13/class/cs61c-xn/proj2/mipscode/insts.trace",
+		"/C/Users/Eric/AppData/Local/Temp/scp26185/home/cc/cs61c/fa13/class/cs61c-xn/proj2/types.h",
+		"/C/Users/Eric/AppData/Local/Temp/scp46929/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp10005/home/cc/cs61c/fa13/class/cs61c-xn/proj2/mipscode/rt3.trace",
+		"/C/Users/Eric/AppData/Local/Temp/scp26878/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp50933/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp39126/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp24134/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp11858/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/Desktop/memoryjtc.c",
+		"/C/Users/Eric/Desktop/commands.txt",
+		"/C/Users/Eric/Desktop/part2fo.c",
+		"/C/Users/Eric/Desktop/projects/proj1/processor.h",
+		"/C/Users/Eric/Desktop/projects/proj1/processor.c",
+		"/C/Users/Eric/Desktop/projects/proj1/load_program.h",
+		"/C/Users/Eric/Desktop/projects/proj1/sim.c",
+		"/C/Users/Eric/Desktop/projects/proj1/memory.h",
+		"/C/Users/Eric/Desktop/projects/proj1/disassemble.h",
+		"/C/Users/Eric/Desktop/projects/proj1/01win/computer.c",
+		"/C/Users/Eric/Desktop/projects/proj1/load_program.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp47761/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/Desktop/projects/proj1/elf.h",
+		"/C/Users/Eric/AppData/Local/Temp/scp02288/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/Dropbox/Fall 2012/Python/project2/trendsfinal.py",
+		"/C/Users/Eric/Dropbox/Spring 2013/Java/Code Samples/trends.py",
+		"/C/Users/Eric/Dropbox/Fall 2012/Python/project2/trends.py",
+		"/C/Users/Eric/Dropbox/Fall 2012/Python/hw5.py",
+		"/C/Users/Eric/Dropbox/Fall 2012/Python/hw4.py",
+		"/C/Users/Eric/Downloads/part1 jw (2).c",
+		"/C/Users/Eric/AppData/Local/Temp/scp50430/home/cc/cs61c/fa13/class/cs61c-xn/proj2/types.h",
+		"/C/Users/Eric/AppData/Local/Temp/scp39800/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp25784/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/Dropbox/Fall 2012/Python/hw3.py",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/about/about.html",
+		"/C/Users/Eric/AppData/Local/Temp/scp31853/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/Downloads/part1 jw (1).c",
+		"/C/Users/Eric/AppData/Local/Temp/scp53756/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp53792/home/cc/cs61c/fa13/class/cs61c-xn/proj2/types.h",
+		"/C/Users/Eric/Downloads/part1 (3).c",
+		"/C/Users/Eric/AppData/Local/Temp/scp08039/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/Desktop/part1.c",
+		"/C/Users/Eric/Dropbox/Projects/First HTML/style.css",
+		"/C/Users/Eric/Downloads/part1 jw.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp26740/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp31026/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp25371/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp36683/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/Downloads/part1 (1).c",
+		"/C/Users/Eric/AppData/Local/Temp/scp27437/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/Downloads/part1 (2).c",
+		"/C/Users/Eric/AppData/Local/Temp/scp59162/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp39958/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp45795/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp46413/home/cc/cs61c/fa13/class/cs61c-xn/proj2/types.h",
+		"/C/Users/Eric/Downloads/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp14188/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp24570/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp36978/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp43789/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp00744/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/AppData/Local/Temp/scp24708/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part2.c",
+		"/C/Users/Eric/Desktop/proj1-2/ec2experience.txt",
+		"/C/Users/Eric/AppData/Local/Temp/scp45422/home/cc/cs61c/fa13/class/cs61c-xn/proj2/part1.c",
+		"/C/Users/Eric/Desktop/lab05/lab05_ex1.txt",
+		"/C/Users/Eric/Desktop/Proj1.java",
+		"/C/Users/Eric/Desktop/lab05/lab05_ex3.c",
+		"/C/Users/Eric/Desktop/proj1commands",
+		"/C/Users/Eric/AppData/Local/Temp/scp20873/home/cc/cs61c/fa13/class/cs61c-xn/lab04/ll_cycle.c"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"millis()",
+			"millis",
+			"vector_v",
+			"vector_",
+			"out",
+			"vector",
+			"row",
+			"finalAns",
+			"intAns",
+			"Answer",
+			"intAns",
+			"finalAns",
+			"instruction",
+			"processor",
+			"tmp",
+			"SIZE_WORD",
+			"SIZE_HALF",
+			"p",
+			"lhu",
+			"0x8",
+			"o",
+			"em",
+			"li",
+			"ol",
+			"ul",
+			"jal",
+			"off",
+			"offset",
+			"group",
+			"abs",
+			"log",
+			"Integer",
+			"targetword",
+			"key",
+			"0",
+			"n",
+			"newsize",
+			"context",
+			"matcher"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"inst",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dashboard_h_old.h",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 14868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "dashboard.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Eric\\Dropbox\\Projects\\CalSol\\DashBoard\\dashboard.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

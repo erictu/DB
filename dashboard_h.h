@@ -21,3 +21,42 @@
 #include "bms_defs.h"
 #include "can_id.h"
 
+	boolean hazard(void) {
+
+	}
+
+
+
+	boolean cruise_control(void) {
+		static boolean state = false;
+  		static boolean prev_reading = HIGH;
+  		boolean current_reading = digitalRead(IN_CRUISE_ON); //use digitalin?
+  		if (current_reading == prev_reading) {
+    		current_reading == HIGH ? state = false : state = true;
+  		}
+  		prev_reading = current_reading;
+  		return state;
+	}
+
+	boolean accelerating(void) {
+
+	}
+
+	boolean braking(void) {
+
+	}
+
+	boolean reversing(void) {
+
+	}
+
+	boolean left_turn(void) {
+
+	}
+
+	boolean right_turn(void) {
+
+	}
+
+
+

@@ -7,3 +7,7 @@
  Description : Pin definitions for the Dashboard IO module
 ===============================================================================
 */
+
+void initPins() {
+	
+}
