@@ -7,12 +7,12 @@
 
 Serial pc (USBTX,USBRX);
 
-DigitalOut ledA(dp14);        //p26);
-DigitalOut ledK(dp28);			  //p24);
+DigitalOut ledA(xp11);        //p26);
+//DigitalOut ledK(dp28);			  //p24);
 
 int main() {
 
-    ledK = 0;
+//    ledK = 0;
 
     while(1) {
         ledA = 1;
